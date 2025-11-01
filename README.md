@@ -75,31 +75,32 @@ python criar_base.py
 python professor.py
 ```
 
-Exemplo de pergunta:  "Explique o que é limite com exemplos simples."
+## Exemplo de pergunta:  "Explique o que é limite com exemplos simples."
 
-Personalização do Estilo de Ensino
+## Personalização do Estilo de Ensino
 
 O professor pode ser configurado para:
 
-Estilo	Descrição
-1	Didático e paciente
-2	Direto ao ponto
-3	Com foco em exercícios
-4	Estilo militar / ITA (sem dó 😅)
+| Estilo | Descrição                        |
+| ------ | -------------------------------- |
+| 1      | Didático e paciente              |
+| 2      | Direto ao ponto                  |
+| 3      | Com foco em exercícios           |
+| 4      | Estilo militar / ITA (sem dó 😅) |
 
 Edite no arquivo professor.py o prompt inicial para ajustar o estilo.
 
-Próximos Passos (Roadmap)
-Criar interface web com Streamlit / Gradio
-Adicionar módulo de resolução de exercícios automatizada
-Criar versão chatbot Telegram
+## Próximos Passos (Roadmap)
+#Criar interface web com Streamlit / Gradio
+#Adicionar módulo de resolução de exercícios automatizada
+#Criar versão chatbot Telegram
 
-Contribuições
+## Contribuições
 
 Contribuições são bem-vindas!
 Se quiser sugerir melhorias, abra uma issue ou envie um pull request.
 
-Observação Legal
+## Observação Legal
 
 Este projeto é apenas para fins de estudo pessoal.
 Se você possui o livro (outra fonte de dados como um livro do Guidorizzi por exemplo) , respeite os direitos autorais e não distribua o PDF.
