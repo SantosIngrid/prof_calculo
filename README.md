@@ -1,4 +1,4 @@
-##Professor de Cálculo I Offline (LLaMA + Apostila Cálculo UERJ)
+###Professor de Cálculo I Offline (LLaMA + Apostila Cálculo UERJ)
 
 Este projeto cria um **professor virtual de Cálculo I**, capaz de explicar conceitos, resolver exercícios passo a passo e tirar dúvidas — **tudo rodando localmente**, sem depender de internet ou APIs externas.
 
