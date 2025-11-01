@@ -1,0 +1,8 @@
+langchain==0.2
+langchain-community==0.2
+langchain-core==0.2
+sentence-transformers==2.7.0
+chromadb==0.4.24
+pypdf==4.2.0
+ollama==0.1.8
+torch==2.3.0
